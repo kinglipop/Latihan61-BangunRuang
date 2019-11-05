@@ -10,7 +10,7 @@ package pbo11k.pkg10118904.latihan61.bangunruang;
  * @author Firman Alfinas
  */
 public abstract class BangunRuang {
-   public final float PHI = (float) 22/7;
+   public final float PHI = (float) 3.14285714;
     private float r,t;
     
 
